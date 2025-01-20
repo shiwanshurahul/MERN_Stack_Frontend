@@ -1,2 +1,1 @@
-# MERN_Stack_Frontend
- 
+# mern-ecommerce-course
